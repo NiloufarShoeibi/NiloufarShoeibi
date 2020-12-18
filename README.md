@@ -1,4 +1,4 @@
-# Hey there! I'm NiloufarShoeibi. 😃
+# Hey there! I'm NiloufarShoeibi. 👩‍💻
 
 I am Niloufar, a 29 years old Ph.D. student in Computer Engineering - Artificial Intelligence. My interests include the development of Backend, Data Science, and Big Data among
 others.
