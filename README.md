@@ -4,9 +4,10 @@ I am Niloufar, a 29 years old Ph.D. student in Computer Engineering - Artificial
 others.
 
 ## 💬  About Me  
-- 📚 I am on the 2nd year of Ph.D. in Intelligent Systems at the University of Salamanca.
+- 🎓 I am on the 3rd year of Ph.D. in Intelligent Systems at the University of Salamanca.
 - ✨ My thesis is about utilizing different AI methods to understand the semantics of the users' behavior on social media platforms.
-- 💼 Working as researcher & developer in the area of AI and Data Science especially "Social Media Analytics and Behavior Analysis at BISITE research group.
+- ⚡ I am a researcher & developer in the area of AI and Data Science especially "Social Media Analytics and Behavior Analysis at BISITE research group.
+- 💼 Working as a senior machine learning engineer at EY. 
 - 🌱 I am currently expanding my knowledge and implementing new tools by exploring the analysis of user behaviors in different social media platforms.
 
 ## 🛠 My tech stack
